@@ -374,7 +374,7 @@ function Admin() {
 
         <header className="dashboard-header">
           <div>
-            <span className="admin-subtitle">XV FOTOGRAFÍAS</span>
+            <span className="admin-subtitle">BYANNY</span>
             <h1>Mi panel</h1>
             <p>Administra todos tus eventos desde aquí.</p>
           </div>
