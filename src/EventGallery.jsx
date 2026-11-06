@@ -478,7 +478,7 @@ setUploadProgress('Preparando tus fotografías...')
             Gracias por compartir y formar parte
             de estos recuerdos tan especiales.
           </p>
-          <span className="closed-footer">Con cariño, XV Fotografías</span>
+          <span className="closed-footer">Con cariño, BYANNY</span>
           <span className="closed-decoration bottom">✧</span>
         </section>
       </main>

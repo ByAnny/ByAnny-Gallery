@@ -53,7 +53,7 @@ function App() {
     <div className="app">
       <header className="hero">
         <span className="subtitle">
-          XV FOTOGRAFÍAS
+          BYANNY
         </span>
 
         <h1>Momentos especiales</h1>

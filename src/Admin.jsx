@@ -336,7 +336,7 @@ function Admin() {
     return (
       <main className="admin-page">
         <form className="admin-card" onSubmit={handleLogin}>
-          <span className="admin-subtitle">XV FOTOGRAFÍAS</span>
+          <span className="admin-subtitle">BYANNY</span>
           <h1>Administración</h1>
           <p>Inicia sesión para gestionar tus eventos.</p>
 
